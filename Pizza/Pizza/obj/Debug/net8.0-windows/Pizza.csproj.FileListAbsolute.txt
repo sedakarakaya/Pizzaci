@@ -1,0 +1,17 @@
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\bin\Debug\net8.0-windows\Pizza.exe
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\bin\Debug\net8.0-windows\Pizza.deps.json
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\bin\Debug\net8.0-windows\Pizza.runtimeconfig.json
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\bin\Debug\net8.0-windows\Pizza.dll
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\bin\Debug\net8.0-windows\Pizza.pdb
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.Form1.resources
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.csproj.GenerateResource.cache
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.AssemblyInfoInputs.cache
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.AssemblyInfo.cs
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.dll
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\refint\Pizza.dll
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.pdb
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.genruntimeconfig.cache
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\ref\Pizza.dll
+C:\Users\SEDA\Desktop\c# yeni\Pizza\Pizza\obj\Debug\net8.0-windows\Pizza.Properties.Resources.resources
